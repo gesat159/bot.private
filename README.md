@@ -1,0 +1,2 @@
+# bot.private
+pot.provate
